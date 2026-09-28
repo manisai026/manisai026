@@ -1,9 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mani Sai Gandra</h1>
-<h3 align="center">Software Development • Full-Stack Development • Back-End Web Development • Amazon Web Services (AWS) • Cloud Applications</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manisai026&label=Profile%20views&color=0e75b6&style=flat" alt="manisai026" /> </p>
-
-<p align="left"> <a href="https://github.com/manisai026/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manisai026" alt="manisai026" /></a> </p>
+# Mani Sai Gandra
+**`Software Development • Full-Stack Development • Back-End Web Development • Amazon Web Services (AWS) • Cloud Application`** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
