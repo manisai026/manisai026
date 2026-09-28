@@ -22,7 +22,7 @@
       <br/>
       <b>Intelli-Rag</b><br/>
       <sub>An AI-powered document intelligence application built with Next.js and TypeScript for processing, understanding, and navigating PDF documents.</sub><br/>
-      🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/AI%20Projects/Deepseek.md">Repo</a>
+      🔗 <a href="https://github.com/manisai026/intelli/tree/main">Repo</a>
       <br/>
       <sub>Tags: AI, Engineering</sub>
     </td>
